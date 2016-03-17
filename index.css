@@ -1,0 +1,16 @@
+.post {
+	background-color: red;
+	height: 200px;
+	color: blue;
+	border-color: blue;
+	border-width: 7px;
+	border-style: solid;
+
+}
+
+#sunshinepost{
+	font-size: 300%;
+
+}
+
+
